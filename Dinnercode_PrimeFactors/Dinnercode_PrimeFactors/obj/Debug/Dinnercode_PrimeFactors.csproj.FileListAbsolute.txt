@@ -1,0 +1,12 @@
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\bin\Debug\Dinnercode_PrimeFactors.exe.config
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\obj\Debug\Dinnercode_PrimeFactors.csprojResolveAssemblyReference.cache
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\bin\Debug\Dinnercode_PrimeFactors.exe
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\bin\Debug\Dinnercode_PrimeFactors.pdb
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\obj\Debug\Dinnercode_PrimeFactors.exe
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\obj\Debug\Dinnercode_PrimeFactors.pdb
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\bin\Debug\Dinnercode_PrimeFactors.exe.config
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\obj\Debug\Dinnercode_PrimeFactors.exe
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\obj\Debug\Dinnercode_PrimeFactors.pdb
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\bin\Debug\Dinnercode_PrimeFactors.exe
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\bin\Debug\Dinnercode_PrimeFactors.pdb
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors\obj\Debug\Dinnercode_PrimeFactors.csprojResolveAssemblyReference.cache

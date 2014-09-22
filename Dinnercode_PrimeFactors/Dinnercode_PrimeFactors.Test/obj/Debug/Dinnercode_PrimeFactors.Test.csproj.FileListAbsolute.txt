@@ -1,0 +1,14 @@
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\bin\Debug\Dinnercode_PrimeFactors.Test.dll
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\bin\Debug\Dinnercode_PrimeFactors.Test.pdb
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\obj\Debug\Dinnercode_PrimeFactors.Test.csprojResolveAssemblyReference.cache
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\obj\Debug\Dinnercode_PrimeFactors.Test.dll
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\obj\Debug\Dinnercode_PrimeFactors.Test.pdb
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\bin\Debug\Dinnercode_PrimeFactors.exe
+c:\users\paul.stanea\documents\visual studio 2012\Projects\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\bin\Debug\Dinnercode_PrimeFactors.pdb
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\bin\Debug\Dinnercode_PrimeFactors.Test.dll
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\bin\Debug\Dinnercode_PrimeFactors.Test.pdb
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\bin\Debug\Dinnercode_PrimeFactors.exe
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\bin\Debug\Dinnercode_PrimeFactors.pdb
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\obj\Debug\Dinnercode_PrimeFactors.Test.csprojResolveAssemblyReference.cache
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\obj\Debug\Dinnercode_PrimeFactors.Test.dll
+C:\Users\paul.stanea\Documents\Visual Studio 2012\Projects\Dinner-Code\Dinnercode_PrimeFactors\Dinnercode_PrimeFactors.Test\obj\Debug\Dinnercode_PrimeFactors.Test.pdb
